@@ -1,0 +1,11 @@
+{
+  "globalDevDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20161016142654",
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160726204056",
+    "jquery": "registry:dt/jquery#1.10.0+20170310222111",
+    "less": "registry:dt/less#0.0.0+20161212190028"
+  },
+  "globalDependencies": {
+    "popper.js": "registry:dt/popper.js#0.4.0+20161005184000"
+  }
+}
