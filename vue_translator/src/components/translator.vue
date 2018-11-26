@@ -6,7 +6,7 @@
                 <el-row>
                     <el-col :span="24">
                         <div class="grid-content bg-purple-dark">
-                            <h1>实时翻译</h1>
+                            <h1>实时翻译翻译！！！！</h1>
                         </div>
                     </el-col>
                 </el-row>
@@ -26,7 +26,7 @@
                 </el-row>
             </el-main>
         </el-container>
-                    
+
   </div>
 </template>
 <script>
@@ -69,6 +69,6 @@
             text-align: center;
             color: cornflowerblue;
         }
-    }  
+    }
 </style>
 
